@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Hexoの基本コマンド
 categories:
     - [ブログ作成]
     - [Hexo]
